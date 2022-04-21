@@ -3,4 +3,5 @@ Public registry for collectors of my artwork; IPFS pin urls for artwork and any 
 
 ## Projects with Pinned Data
 
+- [June 2021 | OpenSea | Photosynthetic](2021_06__opensea__photosynthetic.md)
 - [April 2022 | ArtBlocks | Flux](2022_04__artblocks__flux.md)
