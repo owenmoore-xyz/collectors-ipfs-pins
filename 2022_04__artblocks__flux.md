@@ -6,9 +6,18 @@ https://www.artblocks.io/project/296
 
 Companion application for displaying the full collection as one continuous experience.
 
-`QmQUy7jtutsmR9SSoHtPCs5M2AdfswgKRmb7AmYX7Jtx7a`
-
 https://ipfs.io/ipfs/QmQUy7jtutsmR9SSoHtPCs5M2AdfswgKRmb7AmYX7Jtx7a/
+
+CID|file
+-|-
+Qmcj6zppK19b1dshcKsmeiYegzzbj1TFU6zF2NgxvJQWwm|flux_connected/109a10dca0508e41aa12.ttf
+QmQc8nXN9XavmrSiF54AJab2jGF7nnEiqn1tD7T5Hda6Wx|flux_connected/LICENSE.md
+QmYnyhqnfuRBZihYrVsSrCQjPdczoGUJMB5mDyB5ACVT29|flux_connected/a668b3d996f7c50fb3fe.ttf
+QmZF8jNbE2baZG3w8pnvLWLufmumAedyTwEbQE3ogkAKCR|flux_connected/favicon.ico
+QmcnT9AJRxHJTsDJAxUJrwR2wySCPjdzkAZ2iNQVgkBLc7|flux_connected/index.html
+QmXNBLcP6gzNuC8bZfKJSUQoiAPHZMwiqM6HTu5Zst443Z|flux_connected/main.css
+QmcdNaQxKY2aojesHvuh8f7z6pEEau4kZCjwnLe6KPdBYs|flux_connected/main.js
+QmQUy7jtutsmR9SSoHtPCs5M2AdfswgKRmb7AmYX7Jtx7a|flux_connected
 
 ## High Resolution PNGs (8192 x 5461)
 
