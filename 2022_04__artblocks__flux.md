@@ -2,6 +2,16 @@
 
 https://www.artblocks.io/project/296
 
+## Flux // Connected
+
+Companion application for displaying the full collection as one continuous experience.
+
+`QmQUy7jtutsmR9SSoHtPCs5M2AdfswgKRmb7AmYX7Jtx7a`
+
+https://ipfs.io/ipfs/QmQUy7jtutsmR9SSoHtPCs5M2AdfswgKRmb7AmYX7Jtx7a/
+
+## High Resolution PNGs (8192 x 5461)
+
 The artwork code lives on chain and does not need to be backed up, but collectors requested a high resolution image for each mint and I wanted to make them easily available for 4K monitors and/or printing purposes. Simply copy the `IPFS CID` matching your desired token, and enter it into the url as follows:
 
 `https://ipfs.io/ipfs/<CID>`
@@ -9,8 +19,6 @@ The artwork code lives on chain and does not need to be backed up, but collector
 For example, my mint #0 (Token ID 296000000) would look like the following:
 
 `https://ipfs.io/ipfs/QmeF2Pshq9dfqzfD5FoEBv1nHKPFKofgvojGNG259XBkSJ`
-
-## High Resolution PNGs (8192 x 5461)
 
 IPFS CID | Token ID | Hash
 -|-|-
