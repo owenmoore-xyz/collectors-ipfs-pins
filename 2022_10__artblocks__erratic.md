@@ -4,7 +4,7 @@ https://www.artblocks.io/project/362
 
 ## High Resolution PNGs (6000 x 4000)
 
-The artwork technically allows you to generate your own high resolution images with these URL params (`?xy=6000:4000&aa=4`), but it is both extremely GPU intense and in rare cases, unreliable, due to a "rug checker" algo I put in that unfortunately evaluates pixels incorrectly at extreme resolutions. As a courtesy, I've generated these high resolution images and overriden any bugs, for collectors who wish to have them printed.
+The artwork allows you to generate your own high resolution images with this URL params - `?xy=6000:4000&aa=4` - but it's very GPU intense and, like the project name suggests, can be a bit unpredictable in results when pushing a machine's memory to the upper bounds. As a courtesy, I've manually created print suitable PNGs for collectors who would like to see them on their walls.
 
 `https://ipfs.io/ipfs/<CID>`
 
