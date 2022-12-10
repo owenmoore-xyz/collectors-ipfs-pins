@@ -4,63 +4,69 @@ https://opensea.io/collection/photosynthetic
 
 Each artwork was uploaded to OpenSea and tokenized on a global shared contract. These are the original 6000 x 6000 PNG images. Copy the `IPFS CID` from the table below matching the title of the artwork.
 
-`https://ipfs.io/ipfs/<CID>`
+You can browse all of the files easily using this URL:
+
+https://bafybeievlmdns5grwbuixcfcgwc2kfhqhkktgby435d2kuxgpaq5ocgqla.ipfs.nftstorage.link/
+
+Or you can access the image directly by replacing the `CID` in an IPFS URL like this:
+
+`https://nftstorage.link/ipfs/<CID>`
 
 For example, Artist would look like the following:
 
-`https://ipfs.io/ipfs/QmYpYxg3NDBqxz9KA96oUL5hUBTcaqwxhVhEfa4L6WyJV4`
+`https://nftstorage.link/ipfs/bafybeifz337l62ue3kimpyetefcd5b6rqc74ttoj5yajlswt6qa6w5izyi`
 
 ## Original PNGs (6000 x 6000)
 
-IPFS CID | Title
--|-
-QmYpYxg3NDBqxz9KA96oUL5hUBTcaqwxhVhEfa4L6WyJV4|Artist
-QmRZ22FZ5B26mJccP8E7UrU1DGnL4UY5NMNS8mPmMt2MiT|Atmos
-QmbdGBYj4GFiMYd7wrptDGT4XXQdcmZ6daZW5Ty2UmTjGT|Bathe
-QmTVRjJxFWqhuMZYnmRHxRTHMB71a19jb1nMdRxqTb7cJQ|Bellows
-QmZY5pBKVHD8cUQ2qroiXkxDs9AQbMMvATsTFq5eAiRFhf|Bright
-QmYVcFkbgFTMwwR22nYvYYjj3jx88hECEM3rucKW6Py17P|Construct
-QmW128TBrjjfoSamv27ggfveGVNkdzNEBKXbE2PSZSbwHF|Creature
-QmZct8dY9LB869CEfCQnLGrxBSj5WZpbu8HWeiCt5HV4xa|Desert
-Qmayt8Ty3wcx6BXh5Nke7K2RaPCaF39HRzmX1sRGMqRRWH|Desire
-QmQgba13mNiETkxvbqJ5E4m1YJYbtuy9qedaU7bZQ2FvjP|Divide
-QmZCUMpH26LYmJShQj9fuQ2geQk51FbmV3s8nofkuEUfTL|Dystopia
-QmdCX7KjMmDY2tqTqWbHL2Yi1qQ1un9npLY6xMQ1F7Aqo8|Earth
-QmTGwNdBvinFhTGHE1A47eQDTfiQb5UibbahfCgK54Ns9j|Ember
-Qmd789fXxNKLtq7zUHHpWbMkPTRFiJbp3dSGWFYj8RL2Wm|Emerge
-QmVtHaGo2DBexTF25RRZBxPYtTuUoup8LpFkZWP2X226gw|Erupt
-QmRp8nRxvBFUYfhwtUPLncq1dY79MRKeSNcCyXjgMWHkB5|Escape
-QmeUykZpooLwDHXGgJU11r5HA6t39iRW6h2M19yhqHiE8g|Flow
-QmWhTx8MJoycaLeGJ2AAA1tYoVYUfGqiRQxBiCAm6tZhnW|Force
-QmVb6B581PaR31zyFpFYZtGEnaUp8TH5uGnh6PEWF4Bp6B|Glory
-QmbffStvErei1dvYg1dNJm42idGHEV1jtbrFzdfwTuSTxW|Growth
-QmWG4s4aLkUmdbU5Cv8uMZE4Zwyt8zwSDRa937B7ivXkiY|Heart
-QmXiVEp6AAnCGYNBE8rGDrnZE5yuxJfeF6YKGW2o1GSp24|Hope
-QmYWYYLT7bgvdxmrCyTvVkDs72dorRPodLUaefbAzuRmqs|Journey
-QmbnbsEq9fSyss5ovtHcNWhHnkBHKKu4MVww9Q54FcGLFx|Love
-QmQ2utSVVw4QWWFM3K1PKmKi6zb8YiS49y5HPm32Ew3ZUE|Market
-QmcHEbwqsQ5LNERLFckTieUhg7mcPeqDFWrEcdSX7hchGh|Memory
-QmY4oMEoX2dJZcntoi4xWBtc7AvS28aSdk5YdGbqXBhgSr|Mineral
-QmaUBw86eYnE8d4a9rMFVtfDHLDcM8sSSpdP8toMyrjXZx|Moss
-QmV3ebakVE4bpZtUvZjGwpkfqeEP53eXH2jVW3g8Mr9EXN|Neon
-QmRypVMv53uc4P93dA3Wcn3iELTwAbUFC8wpjbUevHRaSf|Paradise
-QmTDphSAe61RhbuKHpTdfqchjfR61pwd4V491S26k6p5fw|Party
-QmVBoGSNyCXcujQHSkvPLvJa7vcJ9pryYoQmEqY68yWNm8|Passion
-QmZS7x4jJ9s7u1HHki91mU2rhG2LryApykBDJjCrhRXQjp|Pastel
-QmdfPyB5dAFfBzZqHT9hSL9eHHnGXAdWvM5idwJujeR29n|Path
-QmXQYtTzDk5N2YFA7vA4wscjGXzZZ1TysetgUBQoH8HpJa|Powder
-QmU1r5MHnD21mjQRvTWAxN44y9ME6Vm3SKyaUVir6pDq9z|Queen
-QmWanGKLPX47GEZFRfQsmUfmz9RPvBuY6KEbu4nkR4MzMn|Risen
-QmfFvtBnkAJkrLXrgg1nBUJYmb1MsoBQwCvN2AKZwysPid|Royal
-QmXiN5RwM3EKwRbDVkdSkC36bqmHCP4uXmbieLW6ctqujb|Rustic
-QmTSbmdL29eeNVe6HU7JxZLeVfmL73WNLv8uAeeWpiZigj|Seabed
-QmdyfwrYteV31ExdxYeFAJkVyT5YU35HyqeZ41hNBEqvYU|Shine
-QmV8KHRne41SajX8Gc4SpQgWfcsPGYH8uLXRQMctKq19rj|Skew
-QmP4EuTh7hfUefJu872PGkXpyjhxjSPucanT8TBhfhA5GQ|Storm
-QmXasRf85guM2gB36XimR2zSG5UoYkDRcHTr6kAhG1QABc|Symbios
-QmeAZsCt2bcCCyaVXUQEoEcytnKzG9ZgZ53zFDniKfqtDP|Thought
-QmahbvafABxnostsh97BDetqiBimnXiUUizevtrHurVP2n|Tower
-Qmf6oqQTZvRvEK9k1TmTzLaxTaNdZUsdUNY3yCUygFYuts|Vision
-Qmf13KPGYmnvc6Kacb4xXDwEHTcJNgy7Yv9T62db2wpfme|Wander
-QmU9n8uZxZpcQYDnqKGNmc36JYL8zS4NEiYHURz1oRZd3k|Wisp
-QmTdLf5AedWU55errzPpoZErjSYpqUWiEmTG2YLGtsM6Nz|Worlds
+| IPFS CID                                                    | Title     |
+| ----------------------------------------------------------- | --------- |
+| bafybeifz337l62ue3kimpyetefcd5b6rqc74ttoj5yajlswt6qa6w5izyi | artist    |
+| bafybeie5ocr6vwta2nhbvtyjut6qzadgwwciuvycjps5nymnriknrxhhki | atmos     |
+| bafybeigjcy5hakzpi2ryymrmpersisp4sov4mk2biaentcwadcz3n7xh2i | bathe     |
+| bafybeibijb6tqxrljzs6pe2qdczlmbpm3abq6adxeyhigu4pmkbwe2v6j4 | bellows   |
+| bafybeigc6t7idsu7aqckhepsyatqpewkdtl5haakf22ftp6zylxgpe4n4q | bright    |
+| bafybeih3mp56ldlxmynxta6xwzxx6oaagceq6ebj6c7rai6l5yqeeevgeu | construct |
+| bafybeibpin657lf5sybgdb7q5djhvqxc2irdv265q4okyel2siqglpfxny | creature  |
+| bafybeiaecihewouqjqxmbmtlmwoxwamnhafkvxmcxgqf2xkwoqifgussue | desert    |
+| bafybeifdscbktdcz4sj2pfbtpw2fmx7zwawamu37sklci4z4peifrafvym | desire    |
+| bafybeidvs6i6nklwdcp5mhoigs62tbb4pppr75dnd2e3br25kzsfpktno4 | divide    |
+| bafybeidwdyxm7kqdd5x4hw6ldohvtpfllvvuqc5jc3wl3ik3qc3wfeo2ua | dystopia  |
+| bafybeihngkyoqcihzowwyk3mxe3pzizjrfpawebktw7jnf2ieg4d6u67n4 | earth     |
+| bafybeigc7vwiofnlcuktw4d5nmkngkfuigaoqjbsduuv3xyypqqfkrkupy | ember     |
+| bafybeifepesbn6a5kjjjl5utmgzadbhnzjbw7uekzofdbtem7v2ydtz5sa | emerge    |
+| bafybeifq7jqg3g6eafndkkckdpe2llrmosumywxm6il4fzetyv5f2s2zn4 | erupt     |
+| bafybeihx4r2dzvwtyr5wakese5sxvf2qei5c6luqda6jnxtj3q24drmope | escape    |
+| bafybeialmbe4iu4jemdqta7wpeosaqwj36fsu5rgcmhhqowmfmp5iz6qmy | flow      |
+| bafybeidcdr3aqlqlmadaqpaqyeo7zsaghvspkoec2gkarf3y4l4ouax4le | force     |
+| bafybeiepkavn7754awqexsrxgsqvnmqpwd2xdl66xhadq325d5q5in4iaq | glory     |
+| bafybeiehw5agzi2vfqafp7373fhjn5lvlqiaofnkk54woovwz7xhzevkdu | growth    |
+| bafybeiaaminbs4rfm5kfeqyusw4dggfjn4zfirf56dzfsmi5kh72g3ek4e | heart     |
+| bafybeicrk64pyi3yh6dg7jrp47gxxpqgc7xxv7acivnqkrrhfivdlfecge | hope      |
+| bafybeie6cvy6wxvmeqobgfhd6auo2topvmjlbzm2xxjeokf4hmejq4aivi | journey   |
+| bafybeihgwqwv7w2sg6uu7tksrjkpwbmqw4r6yra4hevmpi5wcq5z54az6i | love      |
+| bafybeievl54rmtwa2qembobrrgob7wdx64f2kdp2sijqnqa3qf5u3r2u3u | market    |
+| bafybeiepzl75hyieure4jlesg3kcqstk7fgcp7ne6pdiwkc5ewkqtsrf2y | memory    |
+| bafybeicyk7ndjjgf6o5jrdvslf3y4gforw7aftwve3bzzctinxynemtklu | mineral   |
+| bafybeidjlcbk4ou6f3h7mvkdm7gjisuyt5dphbdhfs4qzt73ydhsc44fta | moss      |
+| bafybeihrc3eb5nh4acrikebr4zna7shubjc6eoyjgmkgnnafuaclchpxoy | neon      |
+| bafybeids75l53jeix6eyhysjzqopcjv47kjghc2hzkyoolbmib5qvb3vem | paradise  |
+| bafybeiblzxserfkjseyt6bxlagyiznarh6b43bx4mksn45dhrd5jaid264 | party     |
+| bafybeifn4ub4iystmv5p3y3m2ukh27eouahqiq7jensdv742adk2mvswjq | passion   |
+| bafybeiazbm7pyyol6qxsfjg2vromjwv4a4o4f25f6bmjexht3reo27fbqq | pastel    |
+| bafybeicdipeezjxllhlz7y2s2kmnetcnmx7cvq4mefpcvmtpy5rqj7j3yy | path      |
+| bafybeidaye7xrsylf4bvnby5mcuxbbrjeyq7kfzdkewgcgeryfhxquxvba | powder    |
+| bafybeibid4cqnn44r55iyoei6v63hkgproqgoy3stdwi4rung5adzbhxtu | queen     |
+| bafybeibve637vqchtsduh2x47cipdyqhsckpv244h7vuzjuc7xbf36suoa | risen     |
+| bafybeibxikf63vjfqp37d2m2svtcupstc2yrxd2myfyjfln55xu2djov3i | royal     |
+| bafybeib3h5d2nt64j6iic7aalvpurkvfbgatt24jmfdt6hyqo6k2nvl7qa | rustic    |
+| bafybeichbwmvshzhgx7ftk2eydh34frr77go2o7zu7zgp4z7gzfsirrosu | seabed    |
+| bafybeiffxjeupmsup4y7ip7e3pwohrokep6x6j75j6ezgcgijrjzffxf24 | shine     |
+| bafybeieolgmoutqizv2imai72sbxo5zxfgtbfn4h7ozqzefsxsuwlszaoa | skew      |
+| bafybeihgtf67jildazvtwfgn222sv7uwyt5vyrwwplow43yx4b7ljr6qkm | storm     |
+| bafybeidvna2u7j3k6tvh7kup3k5bakhd2epp52s4yrgyoowsxchrrumh5e | symbios   |
+| bafybeihpcuzah76ltdzmyp2mz62yjwuyntfeyenlrzv6w7cgk7xasvttvu | thought   |
+| bafybeibjdjd4y43ywvike4ko5u72k6jhhocylqmba5rpnp3vtncuxusx4q | tower     |
+| bafybeie5smzhd5xiy3evrvhpetoo4uvpterkg3xwjvem223urfjrbbfk4i | vision    |
+| bafybeieyilvukbfgu4myio6zas72db3uqx6k7muar5x7u3juczylt4on54 | wander    |
+| bafybeiasp4swhyl7a4kzx6w23spy6iuzchm7fmivstjploforz5soggzjm | wisp      |
+| bafybeieb2dla7w7jbzjahm6ykbvenpmnrtfv4k6p2euauyy3dvd7yfru7q | worlds    |
